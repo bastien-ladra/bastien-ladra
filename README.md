@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Bonjour, je suis Bastien Ladra
 
-<!--
-**bastien-ladra/bastien-ladra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en Master 1 Expert Cybersécurité à Ynov Bordeaux  
+📌 Objectif : progresser en sécurité offensive, défensive et gouvernance  
+💡 Intérêt particulier : lutte contre la cybercriminalité et rôle futur de RSSI
 
-Here are some ideas to get you started:
+## Ce que j'apprends actuellement
+- Réseaux avancés et administration Linux/Windows  
+- Bases du pentest (outils comme nmap, BurpSuite)  
+- Premiers pas en sécurité défensive (logs, SIEM, détection d’incidents)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objectifs pour mon Master
+- Développer mes compétences techniques (pentest, forensic, cloud security)  
+- Comprendre les aspects gouvernance et conformité (ISO, NIST, RGPD)  
+- Constituer un portfolio de projets concrets ici sur GitHub  
+
+## Projets
+- 🔐 [Audit de sécurité réseau – Mini-lab (Semaine 1)](https://github.com/bastien-ladra/Portfolio-Cyber/tree/main/Semaine-01)  
+- 📂 Portfolio en cours de construction (rapports, labs, TP)  
+
+---
+
+📫 [LinkedIn](https://www.linkedin.com/in/bastienladra) | Bordeaux, France
