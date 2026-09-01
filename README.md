@@ -36,7 +36,7 @@ Le laboratoire combine trois scénarios contrôlés (`SSH_BRUTE_FORCE`, `WEB_REC
 
 **Preuves inspectables :** CI avec Black/Ruff/mypy/Bandit/pytest, seuil de couverture ≥ 90 %, Gitleaks plein historique, dépendances verrouillées par hash et auditées, conteneur non-root épinglé par digest, scan Trivy HIGH/CRITICAL et SBOM CycloneDX.
 
-[Voir le code et l'étude de cas](https://github.com/bastien-ladra/CyberSOC-AI-Lab)
+[Étude de cas FR](https://bastien-ladra.github.io/portfolio-bastien-ladra/case-study-cybersoc-fr.html) · [Case study EN](https://bastien-ladra.github.io/portfolio-bastien-ladra/case-study-cybersoc.html) · [Voir le code](https://github.com/bastien-ladra/CyberSOC-AI-Lab)
 
 ## Formation & repères
 
@@ -59,4 +59,4 @@ My background spans **NEHS Digital, GSOI and ASTEK**, with hands-on work across 
 
 My second public project, [`CyberSOC-AI-Lab`](https://github.com/bastien-ladra/CyberSOC-AI-Lab), explores explainable AI-assisted SOC workflows with synthetic data, local optional LLM assistance, human validation, auditability, hash-locked dependencies, container scanning and a CycloneDX SBOM. It is explicitly scoped as an experimental lab rather than a production SOC platform.
 
-[Portfolio](https://bastien-ladra.github.io/portfolio-bastien-ladra/?lang=en) · [Public resume](https://bastien-ladra.github.io/portfolio-bastien-ladra/resume.html?lang=en) · [LinkedIn](https://www.linkedin.com/in/bastienladra) · [Email](mailto:ladra.bastien@gmail.com)
+[CyberSOC case study](https://bastien-ladra.github.io/portfolio-bastien-ladra/case-study-cybersoc.html) · [Portfolio](https://bastien-ladra.github.io/portfolio-bastien-ladra/?lang=en) · [Public resume](https://bastien-ladra.github.io/portfolio-bastien-ladra/resume.html?lang=en) · [LinkedIn](https://www.linkedin.com/in/bastienladra) · [Email](mailto:ladra.bastien@gmail.com)
