@@ -28,6 +28,16 @@ Je sécurise la livraison logicielle et les infrastructures cloud en intégrant 
 
 [Étude de cas FR](https://bastien-ladra.github.io/portfolio-bastien-ladra/case-study-secure-api-fr.html) · [Case study EN](https://bastien-ladra.github.io/portfolio-bastien-ladra/case-study-secure-api.html) · [Voir le code](https://github.com/bastien-ladra/secure-api-devsecops)
 
+## Projet complémentaire — CyberSOC-AI-Lab
+
+[`bastien-ladra/CyberSOC-AI-Lab`](https://github.com/bastien-ladra/CyberSOC-AI-Lab) explore une question différente : **comment une IA peut-elle assister un analyste SOC sans remplacer sa décision ?**
+
+Le laboratoire combine trois scénarios contrôlés (`SSH_BRUTE_FORCE`, `WEB_RECONNAISSANCE`, `PROMPT_INJECTION_ATTEMPT`), détection explicable basée sur règles, assistance IA locale optionnelle via Ollama, validation humaine et journalisation d'audit. Les logs publics sont synthétiques et le projet n'est pas présenté comme un SIEM, un EDR ou un SOC de production.
+
+**Preuves inspectables :** CI avec Black/Ruff/mypy/Bandit/pytest, seuil de couverture ≥ 90 %, Gitleaks plein historique, dépendances verrouillées par hash et auditées, conteneur non-root épinglé par digest, scan Trivy HIGH/CRITICAL et SBOM CycloneDX.
+
+[Voir le code et l'étude de cas](https://github.com/bastien-ladra/CyberSOC-AI-Lab)
+
 ## Formation & repères
 
 - **Epitech — Expert en technologies de l'information**, 2022.
@@ -37,7 +47,7 @@ Je sécurise la livraison logicielle et les infrastructures cloud en intégrant 
 
 ## Axe de progression
 
-Je m'intéresse à l'extension des garanties de la **software supply chain** vers les systèmes IA : provenance des modèles et datasets, pipelines ML vérifiables et Secure MLOps, sans présenter ces sujets comme des capacités déjà implémentées dans mes projets actuels.
+Je m'intéresse à l'extension des garanties de la **software supply chain** vers les systèmes IA : provenance des modèles et datasets, pipelines ML vérifiables et Secure MLOps. CyberSOC-AI-Lab ajoute désormais une première preuve publique sur le volet IA/cybersécurité, dans un périmètre expérimental explicitement borné.
 
 ---
 
@@ -46,5 +56,7 @@ Je m'intéresse à l'extension des garanties de la **software supply chain** ver
 **DevSecOps & Cybersecurity Engineer** focused on secure software delivery, cloud infrastructure and software-supply-chain assurance.
 
 My background spans **NEHS Digital, GSOI and ASTEK**, with hands-on work across CI/CD, GCP/AWS, Terraform, container security and security tooling. My public flagship project, [`secure-api-devsecops`](https://github.com/bastien-ladra/secure-api-devsecops), demonstrates inspectable controls from pull request to published artifact, including SAST/DAST, container and IaC scanning, SBOMs and provenance.
+
+My second public project, [`CyberSOC-AI-Lab`](https://github.com/bastien-ladra/CyberSOC-AI-Lab), explores explainable AI-assisted SOC workflows with synthetic data, local optional LLM assistance, human validation, auditability, hash-locked dependencies, container scanning and a CycloneDX SBOM. It is explicitly scoped as an experimental lab rather than a production SOC platform.
 
 [Portfolio](https://bastien-ladra.github.io/portfolio-bastien-ladra/?lang=en) · [Public resume](https://bastien-ladra.github.io/portfolio-bastien-ladra/resume.html?lang=en) · [LinkedIn](https://www.linkedin.com/in/bastienladra) · [Email](mailto:ladra.bastien@gmail.com)
